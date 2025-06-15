@@ -1,0 +1,9 @@
+
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+    header h1 {
+        font-size: 1.4em;
+    }
+}
